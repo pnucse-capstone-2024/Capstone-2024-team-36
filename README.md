@@ -26,6 +26,8 @@
 
 ### 2.1. 시스템 구성도
 <!-- 시스템 전체 구성도 이미지 -->
+![시스템 전체 흐름도](https://github.com/user-attachments/assets/73b4269b-e812-4555-b3e9-d3d9de642d35)
+
 
 ### 2.2. 사용 기술
 #### Backend (AlphatronWebSocketServer)
@@ -157,15 +159,19 @@ Alphatron/
 
 ### 4.1. AlphatronApp
 <!-- 구성도 이미지 -->
+![플러터 앱 흐름도](https://github.com/user-attachments/assets/f4c4a086-1922-441c-854b-f46b07677a79)
 
 ### 4.2. AlphatronWebSocketServer
 <!-- 구성도 이미지 -->
+![웹소켓 서버 흐름도](https://github.com/user-attachments/assets/e38fe23a-264f-46a8-8a9a-a2f8ce137bef)
 
 ### 4.3. HardwareServer
 <!-- 구성도 이미지 -->
+![하드웨어 서버 흐름도](https://github.com/user-attachments/assets/8350c245-d28c-4a1b-82a5-59d20a69ca83)
 
 ### 4.4. RaspberryPi
 <!-- 구성도 이미지 -->
+![라즈베리파이 흐름도](https://github.com/user-attachments/assets/67d46e84-3b06-44be-a787-8d8f88ec3df9)
 
 ## 5. 소개 및 시연 영상
 
